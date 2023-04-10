@@ -2,7 +2,7 @@
 
 # API Yamdb
 
-This project collects reviews, ratings and comments on movies, books, music and pretty much anything else you can imagine! (Pretty much like IMDb, but far cooler (at least the backend part))
+Данный проект содержит в себе ревью, рейтинг и комментарии на фильмы, книги и музыку. Похож на IMDb, но обширнее.
 
 #### Шаблон наполнения env-файла
 
